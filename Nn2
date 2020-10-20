@@ -1,0 +1,81 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 2 www.achoapps.com
+http://185.167.208.157/master_348.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BigTen Network HD www.achoapps.com
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CCTV 5 Sport HD www.achoapps.com
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DUBAI RACING www.achoapps.com
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2 HD www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fight Box www.achoapps.com
+http://92.43.140.249/s86/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FLOW Sports 1 HD www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports Racing HD www.achoapps.com
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MostVideo TV HD www.achoapps.com
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC GOLF HD www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nova Sport 1 www.achoapps.com
+http://185.167.208.157/master_334.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Q Sport www.achoapps.com
+http://185.167.208.157/master_362.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Red Bull TV HD www.achoapps.com
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Red Bull TV HD www.achoapps.com
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Setanta Sports www.achoapps.com
+http://92.43.140.200/s81/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport 1 www.achoapps.com
+http://185.167.208.157/master_405.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport 5 www.achoapps.com
+http://185.167.208.157/master_342.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Max HD www.achoapps.com
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Turkmenistan Sport HD www.achoapps.com
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVP Sport www.achoapps.com
+http://185.167.208.157/master_432.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Астрахань.Ru Sport HD www.achoapps.com
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", КТРК Спорт (KG) www.achoapps.com
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 2 www.achoapps.com
+http://185.167.208.157/master_348.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BigTen Network HD www.achoapps.com
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CCTV 5 Sport HD www.achoapps.com
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+
+
