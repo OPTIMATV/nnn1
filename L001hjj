@@ -1,0 +1,489 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| TVE INTERNACIONAL HD
+http://185.71.64.167:80/7654321/1234567/79362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| LA 1 HD
+http://185.71.64.167:80/7654321/1234567/79361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| LA 2  HD
+http://185.71.64.167:80/7654321/1234567/79360
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| ANTENA 3 HD
+http://185.71.64.167:80/7654321/1234567/79359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CUATRO HD
+http://185.71.64.167:80/7654321/1234567/79358
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| TELECINCO HD
+http://185.71.64.167:80/7654321/1234567/79357
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| LA SEXTA HD
+http://185.71.64.167:80/7654321/1234567/79356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CANAL SUR A.
+http://185.71.64.167:80/7654321/1234567/79355
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| FDF
+http://185.71.64.167:80/7654321/1234567/79354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| ENERGY
+http://185.71.64.167:80/7654321/1234567/79353
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| DIVINITY
+http://185.71.64.167:80/7654321/1234567/79352
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| MEGA HD
+http://185.71.64.167:80/7654321/1234567/79351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| BE MAD
+http://185.71.64.167:80/7654321/1234567/79350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CANAL 24 HORAS
+http://185.71.64.167:80/7654321/1234567/79349
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| 0 HD
+http://185.71.64.167:80/7654321/1234567/79348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| ARAGON TV INT
+http://185.71.64.167:80/7654321/1234567/79347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| NOVA
+http://185.71.64.167:80/7654321/1234567/79346
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CANAL ORBE21
+http://185.71.64.167:80/7654321/1234567/79345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| 24 HORAS
+http://185.71.64.167:80/7654321/1234567/79344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| TVGA HD
+http://185.71.64.167:80/7654321/1234567/79343
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| #VAMOS HD
+http://185.71.64.167:80/7654321/1234567/79342
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| XTRM HD
+http://185.71.64.167:80/7654321/1234567/79341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| ATRE SERIES HD
+http://185.71.64.167:80/7654321/1234567/79340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| NEOX
+http://185.71.64.167:80/7654321/1234567/79339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| BOING
+http://185.71.64.167:80/7654321/1234567/79336
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CLAN TVE
+http://185.71.64.167:80/7654321/1234567/79335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| DISNEY CH HD
+http://185.71.64.167:80/7654321/1234567/79334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| DISNEY JR
+http://185.71.64.167:80/7654321/1234567/79333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| DISNEY+
+http://185.71.64.167:80/7654321/1234567/79332
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| NICK JR
+http://185.71.64.167:80/7654321/1234567/79331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| NICKELODEON  HD
+http://185.71.64.167:80/7654321/1234567/79330
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| NICK/MTV
+http://185.71.64.167:80/7654321/1234567/79328
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| AMC HD
+http://185.71.64.167:80/7654321/1234567/79326
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| AXN
+http://185.71.64.167:80/7654321/1234567/79325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| AXN HD
+http://185.71.64.167:80/7654321/1234567/79324
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| AXN WHITE HD
+http://185.71.64.167:80/7654321/1234567/79323
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CALLE 13 HD
+http://185.71.64.167:80/7654321/1234567/79322
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| COMEDY CENTRAL HD
+http://185.71.64.167:80/7654321/1234567/79321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| COSMO HD
+http://185.71.64.167:80/7654321/1234567/79320
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| FOX HD
+http://185.71.64.167:80/7654321/1234567/79319
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| FOX LIFE HD
+http://185.71.64.167:80/7654321/1234567/79318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| HOLLYWOOD HD
+http://185.71.64.167:80/7654321/1234567/79317
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| SUNDANCE TV
+http://185.71.64.167:80/7654321/1234567/79315
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| SYFY HD
+http://185.71.64.167:80/7654321/1234567/79314
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| TCM HD
+http://185.71.64.167:80/7654321/1234567/79313
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| TNT HD
+http://185.71.64.167:80/7654321/1234567/79312
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CLASSICA
+http://185.71.64.167:80/7654321/1234567/79311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.LCAMPEONES
+http://185.71.64.167:80/7654321/1234567/79309
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| LALIGA TV BAR
+http://185.71.64.167:80/7654321/1234567/79308
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| BEIN LALIGA HD
+http://185.71.64.167:80/7654321/1234567/79306
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| EUROSPORT1 HD
+http://185.71.64.167:80/7654321/1234567/79304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| EUROSPORT 1
+http://185.71.64.167:80/7654321/1234567/79303
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| EUROSPORT 2
+http://185.71.64.167:80/7654321/1234567/79302
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| GOL
+http://185.71.64.167:80/7654321/1234567/79301
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| BAR TV
+http://185.71.64.167:80/7654321/1234567/79300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| R. MADRID TV
+http://185.71.64.167:80/7654321/1234567/79299
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.FORMULA1 HD
+http://185.71.64.167:80/7654321/1234567/79297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://185.71.64.167:80/7654321/1234567/79294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| DAZN 2 HD
+http://185.71.64.167:80/7654321/1234567/79292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://185.71.64.167:80/7654321/1234567/79289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.ACCION HD
+http://185.71.64.167:80/7654321/1234567/79287
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M. CINE ESPANOL
+http://185.71.64.167:80/7654321/1234567/79286
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M. COMEDIA HD
+http://185.71.64.167:80/7654321/1234567/79285
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.DRAMA HD
+http://185.71.64.167:80/7654321/1234567/79284
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.ESTRENOS HD
+http://185.71.64.167:80/7654321/1234567/79283
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.CINEDOC&ROLL
+http://185.71.64.167:80/7654321/1234567/79282
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.CINEDOC&ROLL HD
+http://185.71.64.167:80/7654321/1234567/79281
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.SERIES HD
+http://185.71.64.167:80/7654321/1234567/79280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M.SERIESMANIA HD
+http://185.71.64.167:80/7654321/1234567/79279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| M. DEPORTES HD
+http://185.71.64.167:80/7654321/1234567/79276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| TELEDEPORTE
+http://185.71.64.167:80/7654321/1234567/79275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| MEZZO LIVE HD
+http://185.71.64.167:80/7654321/1234567/79273
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| MTV
+http://185.71.64.167:80/7654321/1234567/79270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| MTV ESPA¹A
+http://185.71.64.167:80/7654321/1234567/79269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| BLAZE
+http://185.71.64.167:80/7654321/1234567/79265
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CANAL COCINA
+http://185.71.64.167:80/7654321/1234567/79264
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CANAL DECASA
+http://185.71.64.167:80/7654321/1234567/79263
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CAZAYPESCA HD
+http://185.71.64.167:80/7654321/1234567/79262
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CRIMEN+INVES
+http://185.71.64.167:80/7654321/1234567/79261
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| DISCOVERY
+http://185.71.64.167:80/7654321/1234567/79260
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| HISTORIA
+http://185.71.64.167:80/7654321/1234567/79259
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| IBERALIA TV
+http://185.71.64.167:80/7654321/1234567/79258
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| NAT GEO HD
+http://185.71.64.167:80/7654321/1234567/79257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| NAT GEO WILD
+http://185.71.64.167:80/7654321/1234567/79256
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| CANAL ODISEA
+http://185.71.64.167:80/7654321/1234567/79254
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP| VH1
+http://185.71.64.167:80/7654321/1234567/79252
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| TVE INTERNACIONAL HD
+http://185.71.64.167:80/7654321/1234567/79247
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| LA 1 HD
+http://185.71.64.167:80/7654321/1234567/79246
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| ANTENA 3 HD
+http://185.71.64.167:80/7654321/1234567/79244
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CUATRO HD
+http://185.71.64.167:80/7654321/1234567/79243
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| TELECINCO HD
+http://185.71.64.167:80/7654321/1234567/79242
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| LA SEXTA HD
+http://185.71.64.167:80/7654321/1234567/79241
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CANAL SUR A.
+http://185.71.64.167:80/7654321/1234567/79240
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| NOVA
+http://185.71.64.167:80/7654321/1234567/79239
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CANAL ORBE21
+http://185.71.64.167:80/7654321/1234567/79237
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| 24 HORAS
+http://185.71.64.167:80/7654321/1234567/79236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CLAN TVE
+http://185.71.64.167:80/7654321/1234567/79233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| HOLLYWOOD HD
+http://185.71.64.167:80/7654321/1234567/79232
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| IBERALIA TV
+http://185.71.64.167:80/7654321/1234567/79231
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| #VAMOS HD
+http://185.71.64.167:80/7654321/1234567/79229
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| ATRE SERIES HD
+http://185.71.64.167:80/7654321/1234567/79227
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| NEOX
+http://185.71.64.167:80/7654321/1234567/79226
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| BABY TV
+http://185.71.64.167:80/7654321/1234567/79224
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| BOING
+http://185.71.64.167:80/7654321/1234567/79223
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CANAL PANDA
+http://185.71.64.167:80/7654321/1234567/79222
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| COMEDYCENTRAL HD
+http://185.71.64.167:80/7654321/1234567/79221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| DISNEY JR
+http://185.71.64.167:80/7654321/1234567/79219
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| DISNEY+
+http://185.71.64.167:80/7654321/1234567/79218
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| NICK JR
+http://185.71.64.167:80/7654321/1234567/79217
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| NICKELODEON HD
+http://185.71.64.167:80/7654321/1234567/79215
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| FOX HD
+http://185.71.64.167:80/7654321/1234567/79213
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| FOX LIFE HD
+http://185.71.64.167:80/7654321/1234567/79212
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| 0 HD
+http://185.71.64.167:80/7654321/1234567/79211
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| AXN
+http://185.71.64.167:80/7654321/1234567/79208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| AXN HD
+http://185.71.64.167:80/7654321/1234567/79207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| AXN WHITE HD
+http://185.71.64.167:80/7654321/1234567/79206
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| SYFY HD
+http://185.71.64.167:80/7654321/1234567/79205
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| BLAZE
+http://185.71.64.167:80/7654321/1234567/79201
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CANAL COCINA
+http://185.71.64.167:80/7654321/1234567/79199
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CANAL DECASA
+http://185.71.64.167:80/7654321/1234567/79198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CANAL ODISEA
+http://185.71.64.167:80/7654321/1234567/79197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CLASSICA
+http://185.71.64.167:80/7654321/1234567/79195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| CRIMEN INVES
+http://185.71.64.167:80/7654321/1234567/79193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| DIVINITY
+http://185.71.64.167:80/7654321/1234567/79192
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| ENERGY
+http://185.71.64.167:80/7654321/1234567/79191
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.LCAMPEONES
+http://185.71.64.167:80/7654321/1234567/79189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| LALIGA TV BAR
+http://185.71.64.167:80/7654321/1234567/79188
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| BEIN LALIGA HD
+http://185.71.64.167:80/7654321/1234567/79186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| EUROSPORT1 HD
+http://185.71.64.167:80/7654321/1234567/79184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| EUROSPORT 2
+http://185.71.64.167:80/7654321/1234567/79182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| GOL
+http://185.71.64.167:80/7654321/1234567/79181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| BAR TV
+http://185.71.64.167:80/7654321/1234567/79180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| TOROS HD
+http://185.71.64.167:80/7654321/1234567/79178
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.FORMULA1 HD
+http://185.71.64.167:80/7654321/1234567/79177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.GOLF HD
+http://185.71.64.167:80/7654321/1234567/79175
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://185.71.64.167:80/7654321/1234567/79174
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| DAZN 2 HD
+http://185.71.64.167:80/7654321/1234567/79172
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://185.71.64.167:80/7654321/1234567/79171
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.ACCION HD
+http://185.71.64.167:80/7654321/1234567/79167
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.CINE ESPANOL
+http://185.71.64.167:80/7654321/1234567/79166
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.COMEDIA HD
+http://185.71.64.167:80/7654321/1234567/79165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.DRAMA HD
+http://185.71.64.167:80/7654321/1234567/79164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.ESTRENOS HD
+http://185.71.64.167:80/7654321/1234567/79163
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.CINEDOC&ROLL
+http://185.71.64.167:80/7654321/1234567/79162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.CINEDOC&ROLL HD
+http://185.71.64.167:80/7654321/1234567/79161
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.SERIES HD
+http://185.71.64.167:80/7654321/1234567/79160
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M.SERIESMANIA HD
+http://185.71.64.167:80/7654321/1234567/79159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| M. DEPORTES HD
+http://185.71.64.167:80/7654321/1234567/79157
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| TELEDEPORTE
+http://185.71.64.167:80/7654321/1234567/79155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| MEZZO LIVE HD
+http://185.71.64.167:80/7654321/1234567/79153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| MTV
+http://185.71.64.167:80/7654321/1234567/79150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| MTV DANCE
+http://185.71.64.167:80/7654321/1234567/79149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| MTV ESPA¹A
+http://185.71.64.167:80/7654321/1234567/79148
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| MTV HITS
+http://185.71.64.167:80/7654321/1234567/79147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| DISCOVERY
+http://185.71.64.167:80/7654321/1234567/79144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| NAT GEO HD
+http://185.71.64.167:80/7654321/1234567/79143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| NAT GEO WILD
+http://185.71.64.167:80/7654321/1234567/79142
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| NAT GEO WILD HD
+http://185.71.64.167:80/7654321/1234567/79141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| PARAMOUNT
+http://185.71.64.167:80/7654321/1234567/79140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| HISTORIA
+http://185.71.64.167:80/7654321/1234567/79137
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SP|HEVC| FOX NEWS
+http://185.71.64.167:80/7654321/1234567/79135
+
+ 
